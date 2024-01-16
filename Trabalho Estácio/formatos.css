@@ -1,0 +1,57 @@
+body{
+    background-color:rgb(247, 238, 224);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    padding-left: 10px;
+    color:purple;
+    font-size: 20px;
+}
+a:hover{
+    color: rgb(201, 119, 12);
+}
+a:link{
+    color: white;
+}
+nav{
+    background-color: #ffffff;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding: 1em;
+}
+main {
+    color: white;
+    padding: 1em;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 100px;
+    color:purple;
+    font-size: 25px;
+}
+
+main img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px; /* Espaçamento entre a imagem e o texto */
+    margin-bottom: 80px;
+}
+footer {
+    background-color: #ffffff;
+    color: purple;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.Mensagembemvindo{
+    text-align: center;
+    color: rgba(243, 100, 48, 0.849);
+    padding-top: 10px;
+    font-size: 20px;
+}
